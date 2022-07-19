@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">demo02</string>
+    <string name="IP_Text">127.0.0.1</string>
+    <string name="matching">开始匹配</string>
+    <string name="Select_App">请选择要操作的APP</string>
+    <string name="btn_MMP">MMR</string>
+    <string name="btn_PMR">PMR</string>
+</resources>
